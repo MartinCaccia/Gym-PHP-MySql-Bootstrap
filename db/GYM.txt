@@ -1,0 +1,67 @@
+https://dev.mysql.com/downloads/installer/
+https://dev.mysql.com/downloads/windows/
+https://dev.mysql.com/downloads/connector/
+https://dev.mysql.com/downloads/connector/php-mysqlnd/
+https://dev.mysql.com/downloads/workbench/
+https://dev.mysql.com/downloads/mysql/5.6.html#downloads
+
+https://www.youtube.com/watch?v=vrRETT8N1cs
+
+https://docs.microsoft.com/en-us/iis/application-frameworks/install-and-configure-php-on-iis/install-and-configure-mysql-for-php-applications-on-iis-7-and-above
+https://www.galileo.edu/esec/files/2010/12/Como-configurar-PHP-y-sobre-IIS-7-en-Windows-7-ESEC-Dic2010.pdf
+
+
+http://php.net/manual/es/install.windows.legacy.index.php
+http://windows.php.net/download/
+http://php.net/manual/es/configuration.file.php
+http://php.net/manual/es/install.windows.legacy.index.php#install.windows.legacy.iis7
+
+https://technet.microsoft.com/es-es/library/hh994608(v=ws.11).aspx
+
+
+http://www.mediafire.com/file/5rwuvh68lq3wo2w/sistema_gimnasio_platea21.rar
+
+PHP Paginacion:
+http://www.w3programmers.com/simple-pagination-with-php-and-mysql/
+https://www.codexworld.com/ajax-pagination-with-search-filter-php/
+
+MySQL nombre campos y SP:
+http://php.net/manual/es/mysqli-result.fetch-field-direct.php
+http://php.net/manual/es/mysqli.store-result.php
+http://php.net/manual/es/mysqli-result.fetch-fields.php
+
+Google Calendar implementacion:
+https://developers.google.com/google-apps/calendar/quickstart/php
+https://formden.com/blog/date-picker
+http://www.jqueryscript.net/tags.php?/Date%20Picker/
+http://www.anerbarrena.com/date-input-html5-2829/
+
+Calendar Date Picker: 
+Implementar con HTML5
+
+Multiple subida de imagenes para concentimiento y apto medico:
+-Carpeta de upload de imagenes ir a propiedades-->seguridad-->agregar todos y darle control total
+-Agregar campo para imagen de userPicProfile
+-Una imagen para el concentimiento.
+-Una imagen para el apto medico.
+-Imagen para estudios complementarios?
+https://davidwalsh.name/basic-file-uploading-php
+http://php.net/manual/es/features.file-upload.post-method.php
+http://php.net/manual/es/session.upload-progress.php
+http://www.codingcage.com/2014/12/file-upload-and-view-with-php-and-mysql.html
+
+Revisar y actualizar a HTML5:
+https://www.w3schools.com/TagS/tag_input.asp
+
+JSON funcion conexion y close conexion:
+https://geekytheory.com/json-ii-creacion-de-un-json-a-partir-de-una-consulta-en-mysql
+https://geekytheory.com/json-iii-gestionar-json-en-php/
+Setear el content type:
+//send JSON header to browser
+header('Content-Type: application/json');
+
+Use jquery.Ajax:
+http://www.blog.magepsycho.com/sending-json-data-remote-server/
+
+Serialize form elements to json:
+http://www.infotuts.com/send-html-form-data-json-via-ajax/
